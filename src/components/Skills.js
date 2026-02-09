@@ -2,10 +2,11 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const items = [
-  {t:'Java & Spring'}, {t:'ReactJS & Html-Css'}, {t:'MySQL & ELK'},
-  {t:'Docker & Containers'}, {t:'Kubernetes & Helm'}, {t:'AWS / GCP'},
-  {t:'Terraform & IaC'}, {t:'Jenkins / GitHub Actions'}, {t:'CI-CD'},
-  {t:'Prometheus / Grafana'}, {t:'SonarQube / Trivy'}, {t:'NGINX / Ingress'}
+  {t:'Java & Spring'}, {t:'ReactJS & Html-Css'}, {t:'Next-Js & Tailwind'},
+  {t:'Typescript & NodeJS'}, {t:'MySQL & ELK'}, {t:'Docker & Containers'}, 
+  {t:'Kubernetes & Helm'}, {t:'AWS / GCP'}, {t:'Terraform & IaC'}, 
+  {t:'Jenkins / GitHub Actions'}, {t:'CI-CD'}, {t:'Prometheus / Grafana'}, 
+  {t:'SonarQube / Trivy'}, {t:'NGINX / Ingress'}
 ];
 
 export default function Skills(){
