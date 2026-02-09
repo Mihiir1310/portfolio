@@ -10,6 +10,13 @@ const data = [
     github:'https://github.com/Mihiir1310/swiggy-clone-devops.git', demo:'#'
   },
   {
+    title:'iBuilt-This',
+    desc:'Featured product list with Admin-actions $ Authentication.',
+    img:'/iBuilt.png',
+    tags:['React','Typescript','Next.js'],
+    github:'https://github.com/Mihiir1310/ibuiltthis.git', demo:'https://ibuiltthis-tau.vercel.app/'
+  },
+  {
     title:'Amazon-clone application',
     desc:'Terraform-provisioned EKS with Helm charts, Jenkins CI/CD pipeline.',
     img:'/project2.svg',
